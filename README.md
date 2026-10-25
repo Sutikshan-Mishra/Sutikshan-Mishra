@@ -70,6 +70,7 @@ Android has no supported way for a normal app to process other apps' audio, so A
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+
 **Android**
 
 ![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
