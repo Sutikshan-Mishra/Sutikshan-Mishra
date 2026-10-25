@@ -3,7 +3,7 @@
 # Hi, I'm Sutikshan Mishra
 
 **Electronics & Communication Engineering student and part-time software developer.**
-I build Android software, work in the open, and sharpen my fundamentals in Python, Java and DSA.
+I build Android software, work on both software and hardware projects, and sharpen my fundamentals in Python, Java and DSA.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sutikshan--mishra.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=white&labelColor=1F6FEB)](https://sutikshan-mishra.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sutikshan--Mishra-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra)
@@ -19,7 +19,7 @@ I build Android software, work in the open, and sharpen my fundamentals in Pytho
 > **Portfolio:** [sutikshan-mishra.github.io](https://sutikshan-mishra.github.io/)
 > A bit more about me, plus all my contact links in one place.
 
-I'm an engineering student from India,Lucknow who builds real software, learns continuously, and contributes to open source. I am currently focusing on **Java** and I'm still deepening it, and I'm learning **Python** and **Data Structures & Algorithms**.
+I'm an engineering student from Lucknow, India who learns continuously, and tries to contribute from whatever he learns.
 
 I'm open to **software development internships**, collaborations, and open-source contributions.
 
