@@ -19,7 +19,7 @@ I build Android software, work in the open, and sharpen my fundamentals in Pytho
 > **Portfolio:** [sutikshan-mishra.github.io](https://sutikshan-mishra.github.io/)
 > A bit more about me, plus all my contact links in one place.
 
-I'm an engineering student from India who builds real software, learns continuously, and contributes to open source. My interests are **Android development**, **open source**, and **AI-assisted software engineering**. Alongside Kotlin, I work in **Python** and I'm still deepening it, and I'm learning **Java** and **Data Structures & Algorithms**.
+I'm an engineering student from India,Lucknow who builds real software, learns continuously, and contributes to open source. I am currently focusing on **Java** and I'm still deepening it, and I'm learning **Python** and **Data Structures & Algorithms**.
 
 I'm open to **software development internships**, collaborations, and open-source contributions.
 
@@ -69,7 +69,7 @@ Android has no supported way for a normal app to process other apps' audio, so A
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 **Android**
 
 ![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
