@@ -18,7 +18,7 @@ I build Android software, work on software and hardware projects, and sharpen my
 
 <br>
 
-> **Portfolio:** [sutikshan-mishra.github.io](https://sutikshan-mishra.github.io/)
+> **Portfolio:** [sutikshan-mishra.github.io](https://sutikshan-mishra.github.io/)  
 > A bit more about me, plus all my contact links in one place.
 
 I'm an engineering student from Lucknow, India who learns continuously and tries to contribute from whatever he learns.
@@ -27,21 +27,43 @@ I'm open to **software development internships**, collaborations, and open-sourc
 
 ---
 
-## Featured project: Project HAVEN
+# Featured Project
 
 <div align="center">
 
-[![Project HAVEN — India's emergency utility app](https://img.shields.io/badge/PROJECT-HAVEN-0D1117?style=for-the-badge&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra/Project-HAVEN)
+# 🛡️ PROJECT HAVEN
 
-**India's very own emergency utility app.**
+### India's emergency utility app
 
-An offline-first emergency and survival toolkit for Android.
+**An offline-first emergency and survival toolkit for Android.**
 
-[Repository](https://github.com/Sutikshan-Mishra/Project-HAVEN) · Open source · Android
+<a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
+  <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-home.png" alt="Project HAVEN — app home screen" width="72%">
+</a>
+
+<br>
+
+[![Explore HAVEN](https://img.shields.io/badge/EXPLORE-PROJECT%20HAVEN-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra/Project-HAVEN)
+
+**Open source · Android · Offline-first**
 
 </div>
 
-Project HAVEN is designed to keep essential tools and information accessible when internet connectivity may be unavailable.
+Project HAVEN is designed to keep essential tools and information accessible when internet connectivity may be unavailable. It brings emergency access, preparedness resources, and practical field tools into one Android app.
+
+## Inside HAVEN
+
+<div align="center">
+  <a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
+    <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-sos.png" alt="Project HAVEN SOS screen" width="31%">
+  </a>
+  <a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
+    <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-tools.png" alt="Project HAVEN field tools" width="31%">
+  </a>
+  <a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
+    <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-first-aid.png" alt="Project HAVEN first-aid guides" width="31%">
+  </a>
+</div>
 
 ### What it includes
 
@@ -59,7 +81,11 @@ Project HAVEN is designed to keep essential tools and information accessible whe
 - V1 does **not** include offline turn-by-turn routing.
 - The bundled first-aid guides are based on publicly available medical knowledge and have **NOT** been reviewed by a medical professional and **DO NOT** replace professional medical help.
 
-[Explore Project HAVEN →](https://github.com/Sutikshan-Mishra/Project-HAVEN)
+<div align="center">
+
+[**View repository →**](https://github.com/Sutikshan-Mishra/Project-HAVEN)
+
+</div>
 
 ---
 
@@ -108,11 +134,11 @@ AfterTune is a 10-band equalizer and music player built around it. It also shows
 
 It started as a companion for one pair of headphones (the Sennheiser HD 4.50 BTNC). With v2.0.0 it became a universal music player and headphone companion, with a dedicated player section built around a design idea of my own.
 
-<p align="center">
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/sound.jpg" alt="AfterTune Sound page with draggable EQ curve" width="30%"></a>
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/player.jpg" alt="AfterTune Player page" width="30%"></a>
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/settings.jpg" alt="AfterTune Settings page" width="30%"></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Sutikshan-Mishra/AfterTune">
+    <img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/sound.jpg" alt="AfterTune Sound page with draggable EQ curve" width="58%">
+  </a>
+</div>
 
 **What it does**
 
