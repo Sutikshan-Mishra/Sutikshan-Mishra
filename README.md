@@ -156,10 +156,10 @@ It started as a companion for one pair of headphones (the Sennheiser HD 4.50 BTN
 
 <p align="center">
   <a href="https://github.com/Sutikshan-Mishra">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sutikshan-Mishra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sutikshan-Mishra's GitHub stats" height="165">
+    <img src="https://github-stats-extended.vercel.app/api?username=Sutikshan-Mishra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Sutikshan-Mishra's GitHub stats" height="165">
   </a>
   <a href="https://github.com/Sutikshan-Mishra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutikshan-Mishra&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages on Sutikshan-Mishra's GitHub" height="165">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sutikshan-Mishra&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages on Sutikshan-Mishra's GitHub" height="165">
   </a>
 </p>
 
