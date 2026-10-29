@@ -1,15 +1,17 @@
+
 <div align="center">
 
 # Hi, I'm Sutikshan Mishra
 
 **Electronics & Communication Engineering student and part-time software developer.**
-I build Android software, work on both software and hardware projects, and sharpen my fundamentals in Python, Java and DSA.
+
+I build Android software, work on software and hardware projects, and sharpen my fundamentals in Python, Java and DSA.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sutikshan--mishra.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=white&labelColor=1F6FEB)](https://sutikshan-mishra.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sutikshan--Mishra-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=1F6FEB)](https://www.linkedin.com/in/sutikshan-mishra-73a458319)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0D1117?style=flat-square&logo=gmail&logoColor=white&labelColor=1F6FEB)](mailto:sutikshanmishra.portfolio@gmail.com)
-[![Open Source](https://img.shields.io/badge/Open%20Source-AfterTune-0D1117?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra/AfterTune)
+[![Project HAVEN](https://img.shields.io/badge/Featured-Project%20HAVEN-0D1117?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra/Project-HAVEN)
 [![Internships](https://img.shields.io/badge/Open%20to-Internships-0D1117?style=flat-square&labelColor=1F6FEB)](#connect)
 
 </div>
@@ -19,47 +21,45 @@ I build Android software, work on both software and hardware projects, and sharp
 > **Portfolio:** [sutikshan-mishra.github.io](https://sutikshan-mishra.github.io/)
 > A bit more about me, plus all my contact links in one place.
 
-I'm an engineering student from Lucknow, India who learns continuously, and tries to contribute from whatever he learns.
+I'm an engineering student from Lucknow, India who learns continuously and tries to contribute from whatever he learns.
 
 I'm open to **software development internships**, collaborations, and open-source contributions.
 
 ---
 
-## Featured project: AfterTune
+## Featured project: Project HAVEN
 
 <div align="center">
 
-[![AfterTune, a modern Android music player](https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/banner.png)](https://github.com/Sutikshan-Mishra/AfterTune)
+[![Project HAVEN — India's emergency utility app](https://img.shields.io/badge/PROJECT-HAVEN-0D1117?style=for-the-badge&labelColor=1F6FEB)](https://github.com/Sutikshan-Mishra/Project-HAVEN)
 
-**A music player with a real equalizer, for Android.**
+**India's very own emergency utility app.**
 
-[Repository](https://github.com/Sutikshan-Mishra/AfterTune) · [Latest release: v2.0.0](https://github.com/Sutikshan-Mishra/AfterTune/releases/tag/v2.0.0) · MIT licensed
+An offline-first emergency and survival toolkit for Android.
+
+[Repository](https://github.com/Sutikshan-Mishra/Project-HAVEN) · Open source · Android
 
 </div>
 
-Most phones have no proper EQ, and the ones that do apply it in odd places. AfterTune is a 10-band equalizer and a player built around it. It also shows what's playing in other apps and keeps a status page for your Bluetooth headphones.
+Project HAVEN is designed to keep essential tools and information accessible when internet connectivity may be unavailable.
 
-It started as a companion for one pair of headphones (the Sennheiser HD 4.50 BTNC). With v2.0.0 it became a universal music player and headphone companion, with a dedicated player section built around a simple design idea of my own.
+### What it includes
 
-<p align="center">
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/sound.jpg" alt="AfterTune Sound page with the draggable EQ curve" width="30%"></a>
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/player.jpg" alt="AfterTune Player page" width="30%"></a>
-  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/settings.jpg" alt="AfterTune Settings page with headphone status" width="30%"></a>
-</p>
+- **SOS access and emergency contacts** for quick access to help.
+- **Local medical profile** for important medical information.
+- **Safety check-ins** to help communicate your status.
+- **Signal and light tools** for practical emergency use.
+- **First-aid guides and survival handbook** for offline reference.
+- **Emergency cookbook, field tools and Field Notebook** for preparedness.
+- **Offline map rendering** using separately generated and installed map packs.
 
-### What it does
+### V1 limitations and safety notes
 
-- **10-band equalizer.** Biquad filters (RBJ cookbook) run inside the Media3 audio pipeline, with a draggable live response curve, presets, saved profiles, a preamp, and optional auto headroom so boosts don't clip.
-- **Full player.** Local files or whole folders, cover art, queue, search, and a blurred, slowly moving cover backdrop that reacts to the music.
-- **Other apps' playback.** The mini player and Player page show title, artist and progress from other apps (Spotify, YouTube Music and so on) and control them. This is opt-in via notification access.
-- **Ambient listening.** Passes the microphone through to your headphones so you can hear your surroundings. Gain is limited, it never records, and it defaults to -6 dB on every start.
-- **Private by design.** On-device song suggestions, no account, no analytics, no network access.
+- Offline map packs must be generated and installed separately; they are not bundled in this repository.
+- V1 does **not** include offline turn-by-turn routing.
+- The bundled first-aid guides are based on publicly available medical knowledge and have **NOT** been reviewed by a medical professional and **DO NOT** replace professional medical help.
 
-### Why it's interesting
-
-Android has no supported way for a normal app to process other apps' audio, so AfterTune is honest about its limits: the EQ applies to its own playback by default, and an optional system-wide mode attaches only to players that announce an audio session. Ambient mode documents its Bluetooth latency and is explicitly not hearing protection. The project was a lesson in working with platform constraints instead of around them.
-
-**Stack:** Kotlin · Jetpack Compose (Material 3) · AndroidX Media3 · Gradle · GitHub Actions (a workflow builds the APK)
+[Explore Project HAVEN →](https://github.com/Sutikshan-Mishra/Project-HAVEN)
 
 ---
 
@@ -98,7 +98,31 @@ Android has no supported way for a normal app to process other apps' audio, so A
 
 ## Other projects
 
-More projects will appear here as I publish them.
+### [AfterTune](https://github.com/Sutikshan-Mishra/AfterTune)
+
+**A music player with a real equalizer, for Android.**
+
+[Repository](https://github.com/Sutikshan-Mishra/AfterTune) · [Latest release: v2.0.0](https://github.com/Sutikshan-Mishra/AfterTune/releases/tag/v2.0.0) · MIT licensed
+
+AfterTune is a 10-band equalizer and music player built around it. It also shows what's playing in other apps and keeps a status page for your Bluetooth headphones.
+
+It started as a companion for one pair of headphones (the Sennheiser HD 4.50 BTNC). With v2.0.0 it became a universal music player and headphone companion, with a dedicated player section built around a design idea of my own.
+
+<p align="center">
+  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/sound.jpg" alt="AfterTune Sound page with draggable EQ curve" width="30%"></a>
+  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/player.jpg" alt="AfterTune Player page" width="30%"></a>
+  <a href="https://github.com/Sutikshan-Mishra/AfterTune"><img src="https://github.com/Sutikshan-Mishra/AfterTune/raw/main/docs/screenshots/settings.jpg" alt="AfterTune Settings page" width="30%"></a>
+</p>
+
+**What it does**
+
+- **10-band equalizer.** Biquad filters run inside the Media3 audio pipeline, with a draggable live response curve, presets, saved profiles, a preamp, and optional auto headroom.
+- **Full player.** Local files or folders, cover art, queue, search, and a blurred cover backdrop that reacts to the music.
+- **Other apps' playback.** Shows title, artist and progress from other apps and can control them. This is opt-in via notification access.
+- **Ambient listening.** Passes the microphone through to your headphones. Gain is limited, it never records, and it defaults to -6 dB on every start.
+- **Private by design.** On-device song suggestions, no account, no analytics, no network access.
+
+**Stack:** Kotlin · Jetpack Compose (Material 3) · AndroidX Media3 · Gradle · GitHub Actions
 
 ---
 
@@ -121,6 +145,7 @@ More projects will appear here as I publish them.
 - GitHub: [Sutikshan-Mishra](https://github.com/Sutikshan-Mishra)
 - LinkedIn: [Sutikshan Mishra](https://www.linkedin.com/in/sutikshan-mishra-73a458319)
 - Email: [sutikshanmishra.portfolio@gmail.com](mailto:sutikshanmishra.portfolio@gmail.com)
+- Project: [Project HAVEN](https://github.com/Sutikshan-Mishra/Project-HAVEN)
 - Project: [AfterTune](https://github.com/Sutikshan-Mishra/AfterTune)
 
 ---
