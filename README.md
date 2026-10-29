@@ -110,9 +110,7 @@ Project HAVEN is designed to keep essential tools and information accessible whe
 
 - **Python**, going deeper on a language I already use
 - **Java**, building a solid grounding in the language
-- **Data Structures & Algorithms** and problem-solving
-- **Writing maintainable software** with clear structure, tests and documentation
-- **Open-source workflow** covering issues, pull requests, reviews and releases
+- **Data Structures & Algorithms** and problem-solving in java.
 
 ---
 
