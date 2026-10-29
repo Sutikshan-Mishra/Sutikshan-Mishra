@@ -31,14 +31,8 @@ I'm open to **software development internships**, collaborations, and open-sourc
 
 <div align="center">
 
-# 🛡️ PROJECT HAVEN
-
-### India's emergency utility app
-
-**An offline-first emergency and survival toolkit for Android.**
-
 <a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
-  <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-home.png" alt="Project HAVEN — app home screen" width="72%">
+  <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-banner.png" alt="Project HAVEN — emergency tools that work without a signal" width="100%">
 </a>
 
 <br>
@@ -61,7 +55,7 @@ Project HAVEN is designed to keep essential tools and information accessible whe
     <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-tools.png" alt="Project HAVEN field tools" width="31%">
   </a>
   <a href="https://github.com/Sutikshan-Mishra/Project-HAVEN">
-    <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-first-aid.png" alt="Project HAVEN first-aid guides" width="31%">
+    <img src="https://raw.githubusercontent.com/Sutikshan-Mishra/Project-HAVEN/main/screenshots/haven-home.png" alt="Project HAVEN home screen" width="31%">
   </a>
 </div>
 
